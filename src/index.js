@@ -10,4 +10,4 @@ ReactDOM.render(
     <YouTubeDebugger />
   </div>,
   document.getElementById('global')
-);
+); 
